@@ -1,0 +1,31 @@
+SauceLabs support browsers and ios android versions
+
+Chrome
+RELEASE: 105
+
+Firefox
+RELEASE: 104
+
+Safari
+RELEASE: 15
+
+Edge
+RELEASE: 104
+
+iOS
+RELEASE: 16.1
+
+Android
+RELEASE: 13
+
+
+Simulators Versions:
+iOS
+
+15.4
+
+Android
+
+12.0
+
+A (hybrid app) is a software application that combines elements of both native apps and web applications.
